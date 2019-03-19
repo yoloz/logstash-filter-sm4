@@ -57,7 +57,7 @@ gem build logstash-filter-sm4.gemspec
 ```
 - Install the plugin from the Logstash home
 ```sh
-bin/logstash-plugin install /your/local/plugin/logstash-filter-awesome.gem
+bin/logstash-plugin install /your/local/plugin/logstash-filter-sm4.gem
 ```
 > this step you need to wait patiently for a while,likely 30 minutes
 - Start Logstash and proceed to test the plugin
