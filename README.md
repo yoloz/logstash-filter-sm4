@@ -59,7 +59,7 @@ gem build logstash-filter-sm4.gemspec
 ```sh
 bin/logstash-plugin install /your/local/plugin/logstash-filter-sm4.gem
 ```
-> this step you need to wait patiently for a while,likely 30 minutes
+> this step you may need to wait patiently for a while,likely 10 minutes
 - Start Logstash and proceed to test the plugin
 
 ## SM4Impl
