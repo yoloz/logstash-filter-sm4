@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description   = '国密sm4加解密'
   s.homepage      = 'http://www.elastic.co/guide/en/logstash/current/index.html'
   s.authors       = ['yoloz']
-  s.email         = ''
+  s.email         = 'z88897050@gmail.com'
   s.require_paths = ['lib']
 
   # Files
